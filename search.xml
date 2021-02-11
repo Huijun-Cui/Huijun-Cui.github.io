@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Cloudy Day Is Great</title>
+      <link href="2021/02/11/first-article/"/>
+      <url>2021/02/11/first-article/</url>
+      
+        <content type="html"><![CDATA[<p>静静欣赏尹云天。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Cloudy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2021/02/11/hello-world/"/>
       <url>2021/02/11/hello-world/</url>
